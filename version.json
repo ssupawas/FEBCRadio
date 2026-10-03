@@ -1,0 +1,6 @@
+   {
+     "febc_radio": {
+       "android": { "version": "15.0.1", "force_update": false },
+       "ios": { "version": "15.0.1", "force_update": false }
+     }
+   }
